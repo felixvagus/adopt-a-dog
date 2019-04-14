@@ -24,15 +24,20 @@ h2 {
 .checkout {
   background-color: green;
   color: white;
+  font-size: 115%
 }
 
 .nav1 {
   color: darkblue;
   background-color: grey;
+  font-size: 150%;
+  text-decoration: underline;
 }
 
 .nav2 {
   color: white;
+  font-size: 150%;
+  text-decoration: underline;
 }
 
 .first {
