@@ -1,8 +1,6 @@
 function murphyInfo() {
-  let input = prompt('Murphy, good boi, cost: $100.00');
-  let result = 0;
-
-  alert(result);
+  let = prompt("Murphy, good boi, cost: $100.00");
+  alert(prompt);
 }
 
 function murphyPurchase() {
